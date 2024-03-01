@@ -4,7 +4,12 @@
   padding: 2rem;
   text-align: center;
 }
-
+#root{
+  max-width: 1920px;
+  margin: 5 auto;
+  padding: 5rem;
+  text-align: left;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
