@@ -6,10 +6,7 @@
 
 ## Contact info
 
-- **Email:** dejanteofilovic2@gmail.com
-- **Discord:** [dejan_teofilovic](https://discord.gg/PztT2r5U)
-
-- **Discord** [OpenThink#5316](https://discord.gg/TtS7mtuD)
+- **Email:** lizzy040925@gmail.com
 
 ## Release date
 
